@@ -1,4 +1,7 @@
 # Color Cube
+
+[Русская версия](README.RU.md)
+
 Demo gif will be here (loading):
 
 <img alt="demo is loaging" src="https://github.com/maXZimillian/Color_Cube/blob/main/RepoResources/RCDemo_1.gif?raw=true"/></code>
